@@ -2,6 +2,7 @@ import { Routes } from '@angular/router';
 import { Books } from './components/books/books';
 import { Register } from './components/register/register';
 import { Login } from './components/login/login';
+import { Home } from './components/home/home';
 
 // routes array lists all the url mapping to corresponding components
 // paths do NOT include leading slash /
