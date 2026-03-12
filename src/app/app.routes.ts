@@ -10,4 +10,5 @@ export const routes: Routes = [
     { path: 'books', title: 'Books', component: Books },
     { path: 'register', title: 'Register', component: Register },
     { path: 'login', title: 'Login', component: Login }
+    { path: '', title: 'Home', component: Home }
 ];
